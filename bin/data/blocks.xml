@@ -18794,8 +18794,8 @@
  <block>
   <id>158</id>
   <points>29</points>
-  <width>348.75</width>
-  <height>225.0</height>
+  <width>280</width>
+  <height>26</height>
   <vertices>
     <vertex>
      <x>17.0</x>
@@ -79747,7 +79747,7 @@
   <id>789</id>
   <points>32</points>
   <width>500.0</width>
-  <height>76.25</height>
+  <height>92</height>
   <vertices>
     <vertex>
      <x>195.5</x>
@@ -79883,7 +79883,7 @@
   <id>790</id>
   <points>32</points>
   <width>500.0</width>
-  <height>60.0</height>
+  <height>100.0</height>
   <vertices>
     <vertex>
      <x>204.0</x>

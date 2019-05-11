@@ -1,3 +1,4 @@
+#include "ofMain.h"
 #include "ofApp.h"
 
 int main() {
@@ -14,6 +15,7 @@ int main() {
     settings.glesVersion = OFXIOS_RENDERER_ES1; // type of renderer to use, ES1, ES2, ES3
     settings.windowMode = OF_FULLSCREEN;
     ofCreateWindow(settings);
-    
-	return ofRunApp(new ofApp);
+    return ofRunApp(new ofApp);
+    //ofAppiOSWindow * window = (ofAppiOSWindow  *)(ofCreateWindow(settings).get());
+    //window->startAppWithDelegate("MyAppDelegate");
 }
